@@ -7,8 +7,8 @@ Here, we will build the following apps, which among many other things, focus on 
 
 
 
-## 1.Hello app
-## 2. Guess the number
+## 1.[Hello app](https://github.com/Manisha868/Python-s-Project/blob/main/01_hello.ipyn)
+## 2. [Guess the number](https://github.com/Manisha868/Python-s-Project/blob/main/02_Guess_the_Number.ipynb)
      -User input 
      -Conditionals
 ## 3. Birthday app 
