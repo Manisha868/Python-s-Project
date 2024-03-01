@@ -7,11 +7,11 @@ Here, we will build the following apps, which among many other things, focus on 
 
 
 
-## 1.[Hello app](https://github.com/Manisha868/Python-s-Project/blob/main/01_hello.ipynb)
-## 2. [Guess the number](https://github.com/Manisha868/Python-s-Project/blob/main/02_Guess_the_Number.ipynb)
+## 1.Hello app
+## 2. Guess the number
      -User input 
      -Conditionals
-## 3. [Birthday app](https://github.com/Manisha868/Python-s-Project/blob/main/03_Birthday_app.ipynb)
+## 3. Birthday app 
      -dates and times
 ## 4.Personal journal 
     -text-based file i/o
