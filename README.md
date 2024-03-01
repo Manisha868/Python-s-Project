@@ -11,7 +11,7 @@ Here, we will build the following apps, which among many other things, focus on 
 ## 2. [Guess the number](https://github.com/Manisha868/Python-s-Project/blob/main/02_Guess_the_Number.ipynb)
      -User input 
      -Conditionals
-## 3. Birthday app 
+## 3. [Birthday app1](https://github.com/Manisha868/Python-s-Project/blob/main/03_Birthday_app.ipynb)
      -dates and times
 ## 4.Personal journal 
     -text-based file i/o
